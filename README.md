@@ -2,7 +2,7 @@
 
 # Node.js 웹 프로그래밍 스쿨 교육과정
 
-패스트캠퍼스 Node.js 웹 프로그래밍 스쿨 1기의 강의 자료를 공개합니다. **전체 교육과정은 아니고, 앞의 HTML, CSS, JavaScript 과정 이후의 강의를 위한 자료입니다.** 1주차, 2주차 강의는 프론트엔드 스쿨 + Node.js 웹 프로그래밍 스쿨을 대상으로, 3주차부터는 Node.js 웹 프로그래밍 스쿨만을 대상으로 강의가 진행되었습니다.
+[패스트캠퍼스 Node.js 웹 프로그래밍 스쿨](http://school.fastcampus.co.kr/dev_wpsn/) 1기의 강의 자료를 모두 정리해 둔 저장소입니다. **전체 교육과정은 아니고, 앞의 HTML, CSS, JavaScript 과정이 끝난 수강생들을 대상으로 한 자료입니다.** 1주차, 2주차 강의는 프론트엔드 스쿨 + Node.js 웹 프로그래밍 스쿨을 대상으로, 3주차부터는 Node.js 웹 프로그래밍 스쿨만을 대상으로 강의가 진행되었습니다.
 
 ## 1주차, 2주차
 
@@ -106,7 +106,7 @@
         - [예제 React 앱](https://github.com/wpsn/wpsn-todo-front)을 위한 [REST API 작성 실습](https://github.com/wpsn/wpsn-todo-back)과 [결과물](https://github.com/wpsn/wpsn-todo-back-impl)
     - <https://github.com/wpsn/wpsn-linux>
         - 리눅스 기초 명령어
-        - AWS EC2, RDS, Route 53
+        - AWS IAM, EC2, RDS, Route 53
         - PM2, Caddy
     - <https://github.com/wpsn/wpsn-testability>
         - Mocha, assert 내장 모듈, SuperTest를 활용한 REST API 테스트
@@ -122,4 +122,3 @@
 - PM2와 [Keymetrics](https://keymetrics.io/) 연동하기
 - [AWS Cloudwatch](https://aws.amazon.com/ko/cloudwatch/)를 활용한 모니터링
 - [Bugsnag과 Express 연동하기](https://docs.bugsnag.com/platforms/nodejs/express/)
-
