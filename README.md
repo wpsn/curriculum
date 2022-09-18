@@ -4,6 +4,8 @@
 
 [패스트캠퍼스 Node.js 웹 프로그래밍 스쿨](http://school.fastcampus.co.kr/dev_wpsn/) 1기의 강의 자료를 모두 정리해 둔 저장소입니다. **전체 교육과정은 아니고, 앞의 HTML, CSS, JavaScript 과정이 끝난 수강생들을 대상으로 한 자료입니다.** 1주차, 2주차 강의는 프론트엔드 스쿨 + Node.js 웹 프로그래밍 스쿨을 대상으로, 3주차부터는 Node.js 웹 프로그래밍 스쿨만을 대상으로 강의가 진행되었습니다.
 
+# 강의 슬라이드 바로가기
+
 [강의 슬라이드](https://wpsn.github.io/wpsn-handout/)
 
 ## 1주차, 2주차
